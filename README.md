@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yasin Aygul</h1>
-<h3 align="center">Jr frontend developer</h3>
+<h2 align="left">Hi 👋, I'm Front-End Developer...</h2>
 <img align="right" alt="coding" width="400" src="https://erbiotech.com/wp-content/uploads/2018/11/developer_gif.gif">
-
-- 🌱 I’m currently learning **Javascript**
+<h3>What I'm using? 🛠</h3>
+🔭 I use React & React Native for web/mobile front-end development.
+<h3>🛠 Skills</h3>
+<li>HTML5, CSS3, JavaScript, React, React Native, Node.js, Git, GitHub</li>
+<br/>
 
 - 📫 How to reach me **aygul.ysn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yasin-aygül-a06680235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-aygül-a06680235" height="30" width="40" /></a>
-<a href="https://instagram.com/burakyasin.aygl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakyasin.aygl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasin-aygül" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-aygül" height="30" width="40" /></a>
+<a href="https://codesandbox.com/aygul_ysn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aygul_ysn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aygulysn&show_icons=true&locale=en&layout=compact" alt="Yasin-aygul" /></p>
+
+
 
