@@ -3,7 +3,7 @@
 <h3>What I'm using? 🛠</h3>
 🔭 I use React & React Native for web/mobile front-end development.
 <h3>🛠 Skills</h3>
-<li>HTML5, CSS3, JavaScript, React, React Native, Node.js, Git, GitHub</li>
+<li>HTML5, CSS3, JavaScript, React, Node.js, Git, GitHub</li>
 <br/>
 
 - 📫 How to reach me **aygul.ysn@gmail.com**
