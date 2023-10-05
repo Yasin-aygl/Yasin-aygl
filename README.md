@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋, I'm Front-End Developer...</h2>
 <img align="right" alt="coding" width="400" src="https://erbiotech.com/wp-content/uploads/2018/11/developer_gif.gif">
 <h3>What I'm using? 🛠</h3>
-🔭 I use React & React Native for web/mobile front-end development.
+🔭 I use React for web development.
 <h3>🛠 Skills</h3>
-<li>HTML5, CSS3, JavaScript, React, Node.js, Git, GitHub</li>
+<li>HTML5, CSS3, Bootstrap, JavaScript, React.js, Tailwindcss, Next.js, Node.js, Git, GitHub</li>
 <br/>
 
 - 📫 How to reach me **aygul.ysn@gmail.com**
